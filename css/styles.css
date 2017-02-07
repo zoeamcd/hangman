@@ -1,0 +1,20 @@
+body {
+    background: radial-gradient(circle, lightskyblue, darkblue);
+    font-size: 20px;
+    padding: 10%;
+    text-align: center;
+    font-family: Arial;
+    table-layout: fixed;
+}
+table {
+    background: lightskyblue;
+    border-color: blue;
+
+}
+td {
+    background: white;
+    font-size: 20px;
+}
+div {
+    padding: 5px;
+}
